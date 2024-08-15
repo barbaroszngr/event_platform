@@ -41,4 +41,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 //Uploadthing, clerk, stripe, shadcn/ui, zod detaylı bilgi ver. Moongoose da ekle.
 
 // Free ticket ve bilet fiyatı ikisini de girmeye izin vermemeli sistem onu düzeltmelisin
-// Event catalog ile ilgili yeni bir feature eklenecek
