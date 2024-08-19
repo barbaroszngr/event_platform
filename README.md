@@ -37,6 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 // Güncelleme yapılacak. Projede kullandığım teknolojileri vs. detaylı yazacağım. Webhook kullanımı da eklenebilir. 
 
-//Markdown formatı kullanılabilir. 
-//Uploadthing, clerk, stripe, shadcn/ui, zod detaylı bilgi ver. Moongoose da ekle.
+
 
