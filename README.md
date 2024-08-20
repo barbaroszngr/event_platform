@@ -37,5 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 // Güncelleme yapılacak. Projede kullandığım teknolojileri vs. detaylı yazacağım. Webhook kullanımı da eklenebilir. 
 
-
+// Authentication başka bir kitaplıktan implemente edilebilir. 
 
