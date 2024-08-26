@@ -1,16 +1,16 @@
 # A Full Stack Next.js 14 Events App
 
-## Table of Contents 
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
+## 📋 Table of Contents 
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
-## Introduction
+## 🤖 Introduction
 
 Built on Next.js 14, the events application stands as a comprehensive, full-stack platform for managing events. It serves as a hub, spotlighting diverse events taking place globally. Featuring seamless payment processing through Stripe, you have the capability to purchase tickets for any event or even initiate and manage your own events.
 
-## Tech Stack
+## ⚙️Tech Stack
 
 - Node.js
 - Next.js
@@ -22,7 +22,7 @@ Built on Next.js 14, the events application stands as a comprehensive, full-stac
 - Shadcn
 - uploadthing
 
-## Features
+## 🔋 Features
 
 ### Authentication (CRUD) with Clerk
 User management through Clerk, ensuring secure and efficient authentication.
@@ -58,7 +58,7 @@ Quick and efficient search functionality for orders, facilitating easy tracking 
 
 And many more, including code architecture and reusability.
 
-## Quick Start
+## 🤸Quick Start
 
 Follow these steps to set up the project locally on your machine.
 
