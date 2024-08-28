@@ -107,7 +107,6 @@ if (eventType === 'user.deleted') {
 
 return new Response('', { status: 200 }) 
 
-  
 }
 
 
